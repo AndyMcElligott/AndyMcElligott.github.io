@@ -4,7 +4,7 @@ h1 {
   text-align: center;
 }  
 
-h3 {
+h2 {
   font-family: "bookman old style";
   font-size: 20px;
   text-align: center;
@@ -15,3 +15,10 @@ h3 {
 p {
   text-family: "bookman old style";
 }  
+
+h3 {
+  font-family: "bookman old style";
+  font-size: 20px;
+  text-align: center;
+  text-weight: 500;
+}
