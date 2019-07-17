@@ -23,6 +23,11 @@ h3 {
   text-weight: 500;
 }
 
+h4 {
+  font-family: verdana;
+  font-weight: 250;
+
+
 h5 {
   line-height: 5px;
   text-align: center;
