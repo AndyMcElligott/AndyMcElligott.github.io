@@ -38,8 +38,5 @@ ul li{
 }
 
 body {
-  background-image: url('image/wood.jpg');
+  background-image: url("paper.gif");
 }
-
-.img-wood {
-  background-image:url(img/wood.jpg)
