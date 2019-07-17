@@ -40,3 +40,6 @@ ul li{
 body {
   background-image: url('image/wood.jpg');
 }
+
+.img-wood {
+  background-image:url(img/wood.jpg)
