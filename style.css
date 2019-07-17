@@ -37,3 +37,7 @@ ul li{
   margin-left: 40px;
   text-family: "verdana";
 }
+
+body {
+    background-image: url("wood.jpg");
+}
