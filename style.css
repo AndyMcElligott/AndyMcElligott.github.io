@@ -13,7 +13,7 @@ h2 {
 }
 
 p {
-  text-family: "calibri";
+  text-family: "verdana";
 }  
 
 h3 {
@@ -30,11 +30,11 @@ h5 {
   
 li {
   margin-left: 30px;
-  text-family: "calibri";
+  text-family: "verdana";
 }
 ul li{ 
   margin-left: 40px;
-  text-family: "calibri";
+  text-family: "verdana";
 }
 
 body {
