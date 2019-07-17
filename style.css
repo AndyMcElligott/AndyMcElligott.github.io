@@ -30,9 +30,11 @@ h5 {
   
 li {
   margin-left: 30px;
+  text-family: "calibri";
 }
 ul li{ 
   margin-left: 40px;
+  text-family: "calibri";
 }
 
 body {
