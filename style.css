@@ -34,3 +34,7 @@ li {
 ul li{ 
   margin-left: 40px;
 }
+
+body {
+  background-image: url("https://www.google.com/search?q=website+background+images&client=firefox-b-1-e&tbm=isch&source=iu&ictx=1&fir=70nrGpfEpxY1gM%253A%252CfgQSqeZbgbcKQM%252C_&vet=1&usg=AI4_-kRa1ZDegE6qSxz9-VNTA8lYLrPS6Q&sa=X&ved=2ahUKEwjIgI6soLzjAhVqTd8KHb2_DhkQ9QEwCXoECAcQFg#imgrc=yx15naizbG53XM:&vet=1");
+}
