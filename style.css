@@ -41,3 +41,11 @@ ul li{
 body {
     background-image: url("wood.jpg");
 }
+
+
+body {
+  background-image: url("me.jpg");
+  background-repeat: no-repeat;
+  background-position: right top;
+  margin-right: 200px;
+}
