@@ -39,11 +39,6 @@ ul li{
 }
 
 body {
-    background-image: url("PrimeAcademy/Wood");
-}
-
-
-body {
   background-image: url(PrimeAcademy/Wood);
   background-repeat: no-repeat;
   background-position: right top;
