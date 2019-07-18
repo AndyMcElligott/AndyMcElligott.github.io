@@ -44,7 +44,7 @@ body {
 
 
 body {
-  background-image: url("me.jpg");
+  background-image: url(img/me.jpg);
   background-repeat: no-repeat;
   background-position: right top;
   margin-right: 200px;
