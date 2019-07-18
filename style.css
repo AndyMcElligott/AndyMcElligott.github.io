@@ -39,12 +39,12 @@ ul li{
 }
 
 body {
-    background-image: url("img/wood.jpg");
+    background-image: url("PrimeAcademy/wood.jpg");
 }
 
 
 body {
-  background-image: url(img/me.jpg);
+  background-image: url(PrimeAcademy/me.jpg);
   background-repeat: no-repeat;
   background-position: right top;
   margin-right: 200px;
